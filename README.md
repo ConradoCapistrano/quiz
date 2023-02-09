@@ -1,4 +1,4 @@
-# quiz Project
+# Quiz Project
 
 ## Sobre o projeto
 
